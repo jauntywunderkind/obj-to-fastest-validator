@@ -1,0 +1,23 @@
+{
+	"name": "obj-to-fastest-validator",
+	"type": "module",
+	"version": "1.0.0",
+	"description": "turn example shapes into a fastest-validator structure",
+	"main": "obj-to-fastest-validator.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://archive.voodoowarez.com/obj-to-fastest-validator"
+	},
+	"keywords": [],
+	"author": "jauntywunderkind",
+	"license": "MIT",
+	"module": "obj-to-fastest-validator.js",
+	"esm": true,
+	"dependencies": {
+		"es-main": "^1.0.2",
+		"is-object": "^1.0.2"
+	}
+}
